@@ -1,0 +1,26 @@
+Brew install
+- git
+- slack
+- spotify
+- naisdevice
+- python@3.11
+- python@3.12
+- visual-studio-code
+- rectangle (window manager)
+- noTunes (blokker apple music)
+- pipx (så poetry, evt bare uv)
+- maccy (utklippstavle med historikk)
+
+
+VScode extensions
+- json
+- python
+- jupyter
+- gitLens
+- sqlfluff
+- autoDocstring
+- github copilot
+- indent-rainbow
+- Better Comments
+- black formatter
+- better junja (dbt)
